@@ -28,7 +28,7 @@ The package can be installed via Composer by requiring the "philo/laravel-blade"
 
 require 'vendor/autoload.php';
 
-use Philo\Blade\Blade;
+use FiftyOnRed\Blade\Blade;
 
 $views = __DIR__ . '/views';
 $cache = __DIR__ . '/cache';
