@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Philo\\Blade\\": "src"
+            "FiftyOnRed\\Blade\\": "src"
         }
     }
 }
