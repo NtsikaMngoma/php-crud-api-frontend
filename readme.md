@@ -4,7 +4,7 @@ The package can be installed via Composer by requiring the "philo/laravel-blade"
 ```json
 [
 	"require": {
-	    "50onred/laravel-blade": "1.0"
+	    "50onred/laravel-blade": "1.1"
 	}
 ]
 ```
