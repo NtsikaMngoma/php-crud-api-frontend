@@ -1,10 +1,10 @@
 ### Installation
-The package can be installed via Composer by requiring the "50onred/laravel-blade": "1.1" package in your project's composer.json.
+The package can be installed via Composer by requiring the "50onred/laravel-blade": "1.3" package in your project's composer.json.
 
 ```json
 [
 	"require": {
-	    "50onred/laravel-blade": "1.1"
+	    "50onred/laravel-blade": "1.3"
 	}
 ]
 ```
