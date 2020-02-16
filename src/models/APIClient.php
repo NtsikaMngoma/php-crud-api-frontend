@@ -1,15 +1,11 @@
 <?php
 
-
-namespace FiftyOnRed\Blade\models;
-
-
 class APIClient
 {
     function call($method, $url, $data = '', $auth = '') {
         $curl = curl_init($url);
 
-        curl_setopt($url, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 
         switch ($method) {
             case "GET":
